@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am currently studying and improving my knowledge of Go Language.
+I am currently studying and improving my knowledge of Go Language and Node Js.
 
 ## Tech Stack that I have learned
 [![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)](https://git-scm.com/)
